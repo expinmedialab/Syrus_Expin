@@ -1,0 +1,2 @@
+Este Software fue creado con la versión 2017.3.0f3 de Unity 3D.
+Solo se compone de una escena.
